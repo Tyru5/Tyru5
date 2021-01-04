@@ -1,14 +1,20 @@
-<h1 align="left">Hi 👋, I'm Ti</h1>
-<h3 align="left">Passionate and adaptable front-end developer stationed in Fort Collins with a keen interest in producing robust, reusable, and scalable code.</h3>
+<h1 align="center">Hi 👋, I'm Tyrus</h1>
+<h3 align="center">Passionate and adaptable front-end developer stationed in Fort Collins with a keen interest in producing robust, reusable, and scalable code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyru5&label=Profile%20views&color=0eb429&style=flat-square" alt="tyru5" /> </p>
 
 - 🔭 I’m currently working on [bulbapp](https://my.bulbapp.com/)
+
 - 🌱 I’m currently learning **Vue.js**
+
 - 👨‍💻 All of my projects are available at [https://www.tiru5.com/portfolio/](https://www.tiru5.com/portfolio/)
+
 - 📝 I regularly write articles on [https://www.tiru5.com/posts/](https://www.tiru5.com/posts/)
+
 - 💬 Ask me about **Anything! Love communicating on all topics. JavaScript, Typescript, Angular, and more!**
+
 - 📫 How to reach me **tyrusm@hotmail.com**
+
 - ⚡ Fun fact **I am a quadruplet!**
 
 <h3 align="left">Connect with me:</h3>
@@ -25,5 +31,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyru5&show_icons=true&locale=en&layout=compact" alt="tyru5" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyru5&show_icons=true&theme=dark&locale=en" alt="tyru5" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyru5&show_icons=true&locale=en" alt="tyru5" /></p>
