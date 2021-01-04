@@ -5,15 +5,15 @@
 <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
 </p>
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.tyru5.vercel.app/api/spotify)](https://open.spotify.com/user/1216750885)
-
 ---
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tyru5&label=Profile%20views&color=0eb429&style=flat-square" alt="tyru5" />
 <img alt="Website" src="https://img.shields.io/website?down_message=%E2%9D%8C&label=tiru5.com&style=flat-square&up_color=%2300b300&up_message=%F0%9F%9A%80&url=https%3A%2F%2Fwww.tiru5.com">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/tirusthevirus?color=1DA1F2&label=FOLLOW%20%40%20TirustheVirus&logo=twitter&style=flat-square">
 </p>
+
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.tyru5.vercel.app/api/spotify)](https://open.spotify.com/user/1216750885)
 
 - 🔭 I’m currently working on [bulbapp](https://my.bulbapp.com/)
 
