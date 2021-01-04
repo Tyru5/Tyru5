@@ -31,4 +31,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyru5&show_icons=true&locale=en&layout=compact" alt="tyru5" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyru5&show_icons=true&locale=en" alt="tyru5" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tyru5&show_icons=true&locale=en" alt="tyru5" /></p>
