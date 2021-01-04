@@ -44,12 +44,12 @@
 ---
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+
+###:zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
 
-</details>
+<!--END_SECTION:activity-->
 
 ---
 
