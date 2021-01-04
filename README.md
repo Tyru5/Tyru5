@@ -5,7 +5,8 @@
 <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
 </p>
 
-[![Spotify](https://novatorem.tyru5.vercel.app/)](https://open.spotify.com/user/1216750885)
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.tyru5.vercel.app/api/spotify)](https://open.spotify.com/user/1216750885)
 
 ---
 
