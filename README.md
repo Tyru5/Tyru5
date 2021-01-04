@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tyrus</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/tyru5/tyru5/master/assets/gifs/Hi.gif" width="30px">, I'm Ti 🚀</h1>
 <h3 align="center">Passionate and adaptable front-end developer stationed in Fort Collins with a keen interest in producing robust, reusable, and scalable code.</h3>
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyru5&label=Profile%20views&color=0eb429&style=flat-square" alt="tyru5" /> </p>
 
