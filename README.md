@@ -5,6 +5,8 @@
 <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
 </p>
 
+[![Spotify](https://novatorem.tyru5.vercel.app/)](https://open.spotify.com/user/1216750885)
+
 ---
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tyru5&label=Profile%20views&color=0eb429&style=flat-square" alt="tyru5" />
@@ -53,3 +55,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyru5&show_icons=true&locale=en&layout=compact" alt="tyru5" width="300" height="200"/></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tyru5&show_icons=true&locale=en" alt="tyru5" width="500" height="200" /></p>
+https://novatorem.tyru5.vercel.app/
