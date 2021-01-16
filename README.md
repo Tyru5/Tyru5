@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on [bulbapp](https://my.bulbapp.com/)
 
-- 🌱 I’m currently learning more about **Blockchain**
+- 🌱 I’m currently learning more about **Blockchain** and **Vue.js Vesrion 3.x**
 
 - 👨‍💻 All of my projects are available at [https://www.tiru5.com/portfolio/](https://www.tiru5.com/portfolio/)
 
