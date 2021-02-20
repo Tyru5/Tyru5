@@ -4,7 +4,6 @@
 <p align="center">
 <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
 </p>
-
 ---
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tyru5&label=Profile%20views&color=0eb429&style=flat-square" alt="tyru5" />
@@ -15,7 +14,7 @@
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.tyru5.vercel.app/api/spotify)](https://open.spotify.com/user/1216750885)
 
-- 🔭 I’m currently working on [bulbapp](https://my.bulbapp.com/)
+- 🔭 I’m currently working on myself and my own projects!😎
 
 - 🌱 I’m currently learning more about **Vue.js**, **Three.js**, and **WebGl**.
 
