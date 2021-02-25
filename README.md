@@ -42,14 +42,4 @@
 
 ---
 
-
-### :zap: Recent Activity
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyru5&show_icons=true&locale=en&layout=compact" alt="tyru5" width="300" height="200"/></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tyru5&show_icons=true&locale=en" alt="tyru5" width="500" height="200" /></p>
+<p style="text-align: center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyru5&show_icons=true&locale=en&layout=compact" alt="tyru5" width="300" height="200"/></p>
