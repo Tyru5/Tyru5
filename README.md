@@ -14,7 +14,7 @@
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.tyru5.vercel.app/api/spotify)](https://open.spotify.com/user/1216750885)
 
-- 🔭 I’m currently working on myself and my own projects!😎
+- 🔭 I’m currently working on [PlayPosit](https://go.playposit.com/)
 
 - 🌱 I’m currently learning more about **Vue.js**, **Three.js**, and **WebGl**.
 
