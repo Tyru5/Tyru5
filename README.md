@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [PlayPosit](https://go.playposit.com/)
 
-- 🌱 I’m currently learning more about **Vue.js**, **Three.js**, and **WebGl**.
+- 🌱 I’m currently learning more about **Vue.js**, and [**Svelte**](https://svelte.dev/).
 
 - 👨‍💻 All of my projects are available at [https://www.tiru5.com/portfolio/](https://www.tiru5.com/portfolio/)
 
