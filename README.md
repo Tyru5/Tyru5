@@ -10,8 +10,6 @@
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/tirusthevirus?color=1DA1F2&label=FOLLOW%20%40%20TirustheVirus&logo=twitter&style=flat-square">
 </p>
 
-<br />
-
 - 🔭 I’m currently working at [WeVideo](https://www.wevideo.com/) ▶️
 
 - 🌱 I’m currently learning more about:
@@ -33,8 +31,6 @@
     - Svelte
     - Tailwind.css
     - and a whole lot more! 🚀
-<br />
-<br />
 
 - 📫 How to reach me **tyrusm@hotmail.com**
 
