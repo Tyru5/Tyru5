@@ -1,30 +1,44 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/tyru5/tyru5/master/assets/gifs/Hi.gif" width="30px">, I'm Ti 🚀</h1>
-<h3 align="center">Passionate and adaptable front-end developer stationed in Fort Collins with a keen interest in producing robust, reusable, and scalable code.</h3>
+<h3 align="center">Passionate and adaptable Full-Stack Developer stationed in Fort Collins with a keen interest in producing robust, reusable, and scalable code.</h3>
 
 <p align="center">
-<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
+<img style="border-radius: 13px" align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
 </p>
----
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tyru5&label=Profile%20views&color=0eb429&style=flat-square" alt="tyru5" />
 <img alt="Website" src="https://img.shields.io/website?down_message=%E2%9D%8C&label=tiru5.com&style=flat-square&up_color=%2300b300&up_message=%F0%9F%9A%80&url=https%3A%2F%2Fwww.tiru5.com">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/tirusthevirus?color=1DA1F2&label=FOLLOW%20%40%20TirustheVirus&logo=twitter&style=flat-square">
 </p>
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.tyru5.vercel.app/api/spotify)](https://open.spotify.com/user/1216750885)
+<br />
 
-- 🔭 I’m currently working on [PlayPosit](https://go.playposit.com/)🐕
+- 🔭 I’m currently working at [WeVideo](https://www.wevideo.com/) ▶️
 
-- 🌱 I’m currently learning more about [**Vue 3**](https://vuejs.org/), and [**Svelte**](https://svelte.dev/).
+- 🌱 I’m currently learning more about:
+  - [**Vue 3**](https://vuejs.org/)
+  - [**Alpine.js**](https://alpinejs.dev/)
+<br />
+<br />
 
 - 🙌🏼 I'm currenlty contributing to this Chrome extension project: [Social-Media-Blocks-Extension](https://github.com/JavascriptDon/Social-Media-Blocks-Extension)
 
 - 👨‍💻 All of my projects are available at [https://www.tiru5.com/portfolio/](https://www.tiru5.com/portfolio/)
+  - I haven't updated this section of my website in a while, it's outdated for sure. Going to find the time to update it!
+<br />
+<br />
 
 - 📝 I ~~regularly~~😅 write articles on [https://www.tiru5.com/posts/](https://www.tiru5.com/posts/)
 
-- 💬 Ask me about **Anything! Love communicating on all topics. JavaScript, Typescript, Angular, and more!**
+- 💬 Ask me about... **Anything**!
+  - I love any and all topics!
+    - JavaScript
+    - Angular
+    - Vue
+    - Svelte
+    - Tailwind.css
+    - and a whole lot more! 🚀
+<br />
+<br />
 
 - 📫 How to reach me **tyrusm@hotmail.com**
 
