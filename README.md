@@ -17,15 +17,11 @@
 - 🌱 I’m currently learning more about:
   - [**Vue 3**](https://vuejs.org/)
   - [**Alpine.js**](https://alpinejs.dev/)
-<br />
-<br />
 
 - 🙌🏼 I'm currenlty contributing to this Chrome extension project: [Social-Media-Blocks-Extension](https://github.com/JavascriptDon/Social-Media-Blocks-Extension)
 
 - 👨‍💻 All of my projects are available at [https://www.tiru5.com/portfolio/](https://www.tiru5.com/portfolio/)
   - I haven't updated this section of my website in a while, it's outdated for sure. Going to find the time to update it!
-<br />
-<br />
 
 - 📝 I ~~regularly~~😅 write articles on [https://www.tiru5.com/posts/](https://www.tiru5.com/posts/)
 
