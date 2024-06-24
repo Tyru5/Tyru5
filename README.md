@@ -14,7 +14,9 @@
 
 - 🌱 I’m currently learning more about:
   - [**Vue 3**](https://vuejs.org/)
-  - [**Alpine.js**](https://alpinejs.dev/)
+  - [**Nuxt**](https://nuxt.com/)
+  - [**React**](https://react.dev)
+  - [**Next.js**](https://nextjs.org/)
 
 - 🙌🏼 I'm currenlty contributing to this Chrome extension project: [Social-Media-Blocks-Extension](https://github.com/JavascriptDon/Social-Media-Blocks-Extension)
 
@@ -26,6 +28,7 @@
 - 💬 Ask me about... **Anything**!
   - I love any and all topics!
     - JavaScript
+    - TypeScript
     - Angular
     - Vue
     - Svelte
