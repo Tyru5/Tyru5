@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/tyru5/tyru5/master/assets/gifs/Hi.gif" width="30px">, I'm Ti 🚀</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/tyru5/tyru5/master/assets/gifs/Hi.gif" width="30px">, I'm <a href="https://tiru5.dev" target="_blank">Ti</a> 🚀</h1>
 <h3 align="center">Passionate and adaptable Full-Stack Developer stationed in Fort Collins with a keen interest in producing robust, reusable, and scalable code.</h3>
 
 <p align="center">
@@ -45,11 +45,9 @@
 
 - ⚡ Fun fact **I am a quadruplet!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://dev.to/tiru5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tiru5" height="30" width="0" /></a>
-<a href="https://twitter.com/tirusthevirus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tirusthevirus" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tyrus-malmström" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tyrus-malmström" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tyrus-malmstrom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tyrus-malmström" height="30" width="40" /></a>
 <a href="https://instagram.com/_tirusthevirus_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_tirusthevirus_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tirusthevirus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="tirusthevirus" height="30" width="40" /></a>
 </p>
